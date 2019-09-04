@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Quantum Key Distribution.data.unityweb",
+"asmCodeUrl": "Quantum Key Distribution.asm.code.unityweb",
+"asmMemoryUrl": "Quantum Key Distribution.asm.memory.unityweb",
+"asmFrameworkUrl": "Quantum Key Distribution.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
